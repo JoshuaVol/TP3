@@ -17,3 +17,14 @@ li {
     text-align: right;
     list-style-type: none;
 }
+
+h2 {
+    text-align: center;
+}
+
+.first, .second {
+    width: 600px;
+    height: 430px;
+    padding-left: 100px;
+    margin-top: 80px;
+}
