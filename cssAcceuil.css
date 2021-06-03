@@ -29,3 +29,17 @@ h1 {
     height: 430px;
     padding-left: 100px;
 }
+
+.uno {
+    padding-left: 320px;
+}
+
+.dos {
+    padding-left: 590px;
+}
+
+.uno, .dos {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
