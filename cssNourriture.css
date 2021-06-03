@@ -1,0 +1,38 @@
+html {
+    background-color: dodgerblue;
+}
+
+nav ul {
+    background-color: darkblue;
+    margin-left: 91%;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+li {
+    text-align: right;
+    list-style-type: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+.first, .second {
+    width: 600px;
+    height: 430px;
+    padding-left: 100px;
+    margin-top: 80px;
+}
+
+.uno, .dos {
+    margin-left: 340px;
+    color: white;
+    background-color: darkblue;
+    margin-right: 1000px;
+    font-size: larger;
+}
