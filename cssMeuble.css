@@ -28,3 +28,11 @@ h2 {
     padding-left: 100px;
     margin-top: 80px;
 }
+
+.uno, .dos {
+    margin-left: 340px;
+    color: white;
+    background-color: darkblue;
+    margin-right: 1000px;
+    font-size: larger;
+}
