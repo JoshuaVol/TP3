@@ -20,6 +20,12 @@ li {
 
 h1 {
     text-align: center;
-    padding-top: 8%;
+    padding-top: 3%;
     font-size: 60px;
+}
+
+.first, .second {
+    width: 600px;
+    height: 430px;
+    padding-left: 100px;
 }
